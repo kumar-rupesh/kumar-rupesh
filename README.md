@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Rupesh Kumar 👋
 
-<!--
-**kumar-rupesh/kumar-rupesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student  
+💻 Interested in Python, DSA & Artificial Intelligence  
+🚀 Currently building **Vion**, a modular desktop AI assistant using Python.
 
-Here are some ideas to get you started:
+## 🔧 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Artificial Intelligence & Machine Learning
+- Git & GitHub
+
+## 🚀 Current Project
+
+### Vion AI
+A modular desktop AI assistant built with Python.
+
+Current capabilities:
+- Keyboard command input
+- Application launching
+- Google search
+- Intent detection
+- Response management
+
+## 🎯 Goals
+
+- Build strong programming fundamentals
+- Develop practical AI/ML projects
+- Improve problem-solving and DSA skills
+- Build useful real-world software
+
+## 📌 GitHub
+
+I use GitHub to document my learning, projects, and development journey.
+
+---
+
+⭐ Thanks for visiting my profile!
